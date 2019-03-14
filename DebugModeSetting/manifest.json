@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Debug Mode Setting",
+  "Author": "AdaLovegirls",
+  "Version": "1.0.0",
+  "Description": "One or two sentences about the mod",
+  "UniqueID": "Adalovegirls.DebugModeSetting",
+  "EntryDll": "DebugModeSetting.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
